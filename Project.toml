@@ -1,4 +1,4 @@
-name = "NMFk"
+name = "ShiftNMFk"
 uuid = "e40cd9e2-a1df-5d90-a1fa-603fdc3dbdd8"
 authors = ["Velimir V Vesselinov (monty) <velimir.vesselinov@gmail.com>"]
 version = "1.1.35"
