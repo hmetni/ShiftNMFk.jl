@@ -2,7 +2,7 @@ module ShiftNMFk
 	using JSON #TODO switch to import
 	using Clustering
 	using Distances
-	using Stats
+	#using Stats
 	#using Gadfly
 	#using Compose
 	using NLopt
